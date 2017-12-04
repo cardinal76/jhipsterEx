@@ -17,7 +17,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<start-class>it.cardinals.main.CardinalRestApplication</start-class>
+		<start-class>src.main.java.it.cardinals.main.CardinalRestApplication</start-class>
 		<rp.build.warname>moodle-services</rp.build.warname>
 		<dozer.version>5.5.1</dozer.version>
 		<logback.version>1.2.3</logback.version>
