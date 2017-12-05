@@ -1,4 +1,4 @@
-package it.cardinals.main.config;
+package it.cardinals.jhip.config;
 
 import java.net.URI;
 import java.net.URISyntaxException;

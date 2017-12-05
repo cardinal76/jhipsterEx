@@ -1,4 +1,4 @@
-package it.cardinals.main;
+package it.cardinals.jhip;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
